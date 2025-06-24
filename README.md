@@ -112,9 +112,6 @@ Cleaned and merged into `model_df`.
 - Use multi-day return horizons (not just next day)
 - Deploy as a Streamlit dashboard (for interactivity)
 - Expand to sector comparison (Tesla vs EV market)
-"""
 
-    f.write(readme_text)
 
-readme_path
 
